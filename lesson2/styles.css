@@ -1,0 +1,13 @@
+.button {
+  padding: 20px 30px;
+  font-size: 26px;
+  background-color: transparent;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.block {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+}
